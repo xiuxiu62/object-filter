@@ -2,7 +2,7 @@
   "name": "object-filter",
   "author": "xiuxiu62",
   "version": "1.0.0",
-  "description": "Utility functions for applyting soft and deep filters on objects",
+  "description": "Utility functions for applying soft and deep filters on objects",
   "license": "BSD-3-Clause",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
